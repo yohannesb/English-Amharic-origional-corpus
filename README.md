@@ -1,0 +1,1 @@
+# English-Amharic-origional-corpus
