@@ -1,5 +1,5 @@
 # English-Amharic-origional-corpus
-If you use this toolbox in your research please cite Prediction as a candidate for learning deep hierarchical models of data
+If you use this parallel corpus in your research please cite Parallel Corpora Preparation for English-Amharic Machine Translation
 
 @inproceedings{biadgligne2021parallel,
   title={Parallel Corpora Preparation for English-Amharic Machine Translation},
